@@ -360,11 +360,11 @@
       "maxLevel": 7,
       "nbtName": "power"
     },
-    "pristine": {
+    "prismatic": {
       "goodLevel": 0,
-      "loreName": "Pristine",
+      "loreName": "Prismatic",
       "maxLevel": 5,
-      "nbtName": "pristine"
+      "nbtName": "prismatic"
     },
     "projectile protection": {
       "goodLevel": 5,
@@ -801,6 +801,12 @@
       "loreName": "Fatal Tempo",
       "maxLevel": 5,
       "nbtName": "ultimate_fatal_tempo"
+    },
+    "flowstate": {
+      "goodLevel": 0,
+      "loreName": "Flowstate",
+      "maxLevel": 3,
+      "nbtName": "ultimate_flowstate"
     },
     "flash": {
       "goodLevel": 0,
