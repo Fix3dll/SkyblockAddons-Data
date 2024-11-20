@@ -273,8 +273,8 @@
     "enchanted": true,
     "itemId": "stone"
   },
-  "ENCHANTED_HAY_BLOCK": {
-    "displayName": "§aEnchanted Hay Bale",
+  "ENCHANTED_HAY_BALE": {
+    "displayName": "§9Enchanted Hay Bale",
     "enchanted": true,
     "itemId": "hay_block"
   },
@@ -609,6 +609,11 @@
     "enchanted": true,
     "itemId": "sponge"
   },
+  "ENCHANTED_WHEAT": {
+    "displayName": "§aEnchanted Wheat",
+    "enchanted": true,
+    "itemId": "wheat"
+  },
   "ENCHANTED_WOOL": {
     "displayName": "§aEnchanted Wool",
     "enchanted": true,
@@ -840,11 +845,6 @@
     "enchanted": false,
     "itemId": "gold_block"
   },
-  "HAY_BLOCK": {
-    "displayName": "§fHay Bale",
-    "enchanted": false,
-    "itemId": "hay_block"
-  },
   "HUGE_MUSHROOM_1": {
     "displayName": "§fBrown Mushroom Block",
     "enchanted": false,
@@ -930,8 +930,18 @@
     "enchanted": true,
     "itemId": "spawn_egg"
   },
+  "ENCHANTED_HAY_BLOCK": {
+    "displayName": "§aEnchanted Hay Bale §c(Legacy)",
+    "enchanted": true,
+    "itemId": "hay_block"
+  },
+  "HAY_BLOCK": {
+    "displayName": "§fHay Bale §c(Legacy)",
+    "enchanted": false,
+    "itemId": "hay_block"
+  },
   "TIGHTLY_TIED_HAY_BALE": {
-    "displayName": "§9Tightly-Tied Hay Bale",
+    "displayName": "§9Tightly-Tied Hay Bale §c(Legacy)",
     "itemId": "skull",
     "skullId": "dedecf64-1ed4-3413-855f-0a38789cd63e",
     "texture": "f7c33cd0c14ba830da149907f7a6aae835b6a35aea01e0ce073fb3c59cc46326"
