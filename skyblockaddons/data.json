@@ -6,7 +6,7 @@
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseNote": "",
-    "latestBeta": "1.10.0-beta.3",
+    "latestBeta": "1.10.0-beta.4",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "betaNote": ""
@@ -106,7 +106,8 @@
       "FLAWED_PERIDOT_GEM",
       "FINE_PERIDOT_GEM",
       "FLAWLESS_PERIDOT_GEM",
-      "PERFECT_PERIDOT_GEM"
+      "PERFECT_PERIDOT_GEM",
+      "PREMIUM_FLESH"
     ]
   },
   "hypixelBrands": [
