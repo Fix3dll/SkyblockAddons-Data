@@ -11,6 +11,16 @@
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "betaNote": ""
   },
+  "autoUpdateStable": {
+    "versionNumber": "1.10.6+529",
+    "sha256": "64ed8fe7a8a783540456c332231a9e5c79a082ac6ca19984109969185cc849ce",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/eCiETkXs/SkyblockAddons-1.10.6+529-for-MC-1.8.9.jar"
+  },
+  "autoUpdateBeta": {
+    "versionNumber": "1.10.0-beta.4+485",
+    "sha256": "e692f8234e78130bf5c2e64147ed48fc0d843e7bba24c0efc31f63bb3009d431",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/TzqydvEc/SkyblockAddons-1.10.0-beta.4+485-for-MC-1.8.9.jar"
+  },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/main/src/main/resources/lang/%s.json",
   "disabledFeatures": {
     "all": [2, 12, 16, 30, 31, 32, 35, 41, 44, 47, 51, 56, 59, 86, 89, 151, 154, 159]
