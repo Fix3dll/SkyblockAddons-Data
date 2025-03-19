@@ -408,6 +408,12 @@
       "maxLevel": 5,
       "nbtName": "quantum"
     },
+    "quick bite": {
+      "goodLevel": 0,
+      "loreName": "Quick Bite",
+      "maxLevel": 5,
+      "nbtName": "quick_bite"
+    },
     "rainbow": {
       "goodLevel": 1,
       "loreName": "Rainbow",
