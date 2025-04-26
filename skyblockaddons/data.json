@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "1.10.8",
+    "latestRelease": "1.10.9",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseNote": "",
@@ -12,14 +12,14 @@
     "betaNote": ""
   },
   "autoUpdateStable": {
-    "versionNumber": "1.10.8+557",
-    "sha256": "65A2A8EA2B5821B4FB7712E0D8563B974323FEC22C8D7FCE67CB3EEEECE76CC8",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/nCFgUkrZ/SkyblockAddons-1.10.8+557-for-MC-1.8.9.jar"
+    "versionNumber": "1.10.9+561",
+    "sha256": "A221F457BB3D8FF1FFFF48FB581AE3D208F4B71749D9C741A231740ED9743DC2",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/VBZ3wYyx/SkyblockAddons-1.10.9+561-for-MC-1.8.9.jar"
   },
   "autoUpdateLatest": {
-    "versionNumber": "1.10.8+557",
-    "sha256": "65A2A8EA2B5821B4FB7712E0D8563B974323FEC22C8D7FCE67CB3EEEECE76CC8",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/nCFgUkrZ/SkyblockAddons-1.10.8+557-for-MC-1.8.9.jar"
+    "versionNumber": "1.10.9+561",
+    "sha256": "A221F457BB3D8FF1FFFF48FB581AE3D208F4B71749D9C741A231740ED9743DC2",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/VBZ3wYyx/SkyblockAddons-1.10.9+561-for-MC-1.8.9.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/main/src/main/resources/lang/%s.json",
   "disabledFeatures": {
