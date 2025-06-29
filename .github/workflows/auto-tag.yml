@@ -1,9 +1,10 @@
 name: Update "data" Tag on Every Commit to Main
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: ["Validate JSON"]
+    types:
+      - completed
 
 jobs:
   update-data-tag:
