@@ -1,0 +1,66 @@
+name: Sync Shared JSON Files to Other Branches
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - skyblock/containers.json
+      - skyblock/cooldowns.json
+      - skyblock/enchants.json
+      - skyblock/locations.json
+      - skyblock/seaCreatures.json
+      - skyblock/skillXp.json
+      - skyblock/slayerLocations.json
+
+env:
+  TARGET_BRANCHES: >
+    1.21.5
+  SHARED_FILES: >
+    skyblock/containers.json
+    skyblock/cooldowns.json
+    skyblock/enchants.json
+    skyblock/locations.json
+    skyblock/seaCreatures.json
+    skyblock/skillXp.json
+    skyblock/slayerLocations.json
+
+permissions:
+  contents: write
+
+jobs:
+  sync-shared-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Sync shared JSON files to target branches
+        run: |
+          BRANCHES=($TARGET_BRANCHES)
+
+          for BRANCH in "${BRANCHES[@]}"; do
+            echo "Switching to branch: $BRANCH"
+            git checkout $BRANCH
+
+            echo "Copying shared files from main to $BRANCH"
+            git checkout main -- $SHARED_FILES
+
+            if git diff --quiet; then
+              echo "No changes to commit for $BRANCH. Skipping."
+            else
+              git commit -m "Sync shared JSON files from main to $BRANCH"
+              git push origin $BRANCH
+            fi
+          done
+
+      - name: Checkout back to main
+        run: git checkout main
