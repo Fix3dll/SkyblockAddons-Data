@@ -5,11 +5,12 @@
     "latestRelease": "1.10.9+561",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
-    "releaseNote": "",
     "latestBeta": "2.0.0-alpha.11",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
-    "betaNote": ""
+    "updateNotes": {
+      "619": ""
+    }
   },
   "autoUpdateStable": {
     "versionName": "SkyblockAddons-1.10.9+561-for-MC-1.8.9",
