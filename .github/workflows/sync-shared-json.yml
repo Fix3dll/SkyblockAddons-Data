@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - .github/workflows/sync-shared-json.yml
       - skyblock/containers.json
       - skyblock/cooldowns.json
       - skyblock/enchants.json
