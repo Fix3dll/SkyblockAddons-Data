@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - .github/workflows/sync-shared-json.yml
-      - skyblock/containers.json
+#      - skyblock/containers.json
       - skyblock/cooldowns.json
       - skyblock/enchants.json
       - skyblock/locations.json
@@ -18,7 +18,7 @@ env:
   TARGET_BRANCHES: >
     1.21.5
   SHARED_FILES: >
-    skyblock/containers.json
+#    skyblock/containers.json
     skyblock/cooldowns.json
     skyblock/enchants.json
     skyblock/locations.json
