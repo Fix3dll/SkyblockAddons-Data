@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "1.10.9",
+    "latestRelease": "1.10.10",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseNote": "",
@@ -12,9 +12,9 @@
     "betaNote": ""
   },
   "autoUpdateStable": {
-    "versionNumber": "1.10.9+561",
-    "sha256": "A221F457BB3D8FF1FFFF48FB581AE3D208F4B71749D9C741A231740ED9743DC2",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/VBZ3wYyx/SkyblockAddons-1.10.9+561-for-MC-1.8.9.jar"
+    "versionNumber": "1.10.10+630",
+    "sha256": "1E7CAB895AFE6A98C46EB88ACC471BC78D346298B1F324F5C9323C0997F42975",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/bdVTcIw9/SkyblockAddons-1.10.10+630-for-MC-1.8.9.jar"
   },
   "autoUpdateLatest": {
     "versionNumber": "1.10.9+561",
