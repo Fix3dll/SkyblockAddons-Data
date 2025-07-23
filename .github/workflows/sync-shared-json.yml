@@ -53,8 +53,9 @@ jobs:
 
             echo "Copying shared files from main to $BRANCH"
             git checkout main -- $SHARED_FILES
+            git add $SHARED_FILES
 
-            if git diff --quiet; then
+            if git diff --cached --quiet; then
               echo "No changes to commit for $BRANCH. Skipping."
             else
               git commit -m "Sync shared JSON files from main to $BRANCH"
