@@ -15,16 +15,15 @@ on:
       - skyblock/slayerLocations.json
 
 env:
-  TARGET_BRANCHES: >
-    1.21.5
+  TARGET_BRANCHES: "1.21.5"
   SHARED_FILES: >
-#    skyblock/containers.json
     skyblock/cooldowns.json
     skyblock/enchants.json
     skyblock/locations.json
     skyblock/seaCreatures.json
     skyblock/skillXp.json
     skyblock/slayerLocations.json
+#    skyblock/containers.json
 
 permissions:
   contents: write
