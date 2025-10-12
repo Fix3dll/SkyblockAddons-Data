@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.0.0",
+    "latestRelease": "2.0.1",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.0.0-alpha.11",
@@ -13,16 +13,16 @@
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.0.0+643-for-MC-1.21.5.jar",
-    "versionNumber": 643,
-    "sha256": "9650D7065D69C3C73F01181FA01BCEDB619D4E8FB33524B0092E268F5C8A7735",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/g79j7EYQ/SkyblockAddons-2.0.0+643-for-MC-1.21.5.jar"
+    "versionName": "SkyblockAddons-2.0.1+648-for-MC-1.21.5.jar",
+    "versionNumber": 648,
+    "sha256": "C319ECB589203590742DBB2E86B42C84D87FFE9CF67E0BBC25BE73CBEA340AB0",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/NHRozGZn/SkyblockAddons-2.0.1+648-for-MC-1.21.5.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.0.0+643-for-MC-1.21.5.jar",
-    "versionNumber": 643,
-    "sha256": "9650D7065D69C3C73F01181FA01BCEDB619D4E8FB33524B0092E268F5C8A7735",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/g79j7EYQ/SkyblockAddons-2.0.0+643-for-MC-1.21.5.jar"
+    "versionName": "SkyblockAddons-2.0.1+648-for-MC-1.21.5.jar",
+    "versionNumber": 648,
+    "sha256": "C319ECB589203590742DBB2E86B42C84D87FFE9CF67E0BBC25BE73CBEA340AB0",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/NHRozGZn/SkyblockAddons-2.0.1+648-for-MC-1.21.5.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.5/src/main/resources/lang/%s.json",
   "disabledFeatures": {
