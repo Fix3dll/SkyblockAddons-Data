@@ -2,28 +2,27 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.1.0",
+    "latestRelease": "2.1.1",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "updateNotes": {
-      "619": "",
-      "651": "This is a small patch to prevent chat spam caused by the Perkpocalypse mayor not being detected. Apologies for this minor bug. To automatically download stable versions, you can enable 'Full Auto Update' in /sba -> General Settings."
+      "619": ""
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.1.0+663-for-MC-1.21.10.jar",
-    "versionNumber": 663,
-    "sha256": "6947DDC7681FF9204FD4C0D73861C222C63261BF54032DE5086301F3A0AE1C40",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/DCPFQqIQ/SkyblockAddons-2.1.0+663-for-MC-1.21.10.jar"
+    "versionName": "SkyblockAddons-2.1.1+667-for-MC-1.21.10.jar",
+    "versionNumber": 667,
+    "sha256": "E1FBD8EFF6989F42E0169C91D29A5F4EA1FC9C66CCFEDB1A4705451AC571D7F0",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/pB23a7ys/SkyblockAddons-2.1.1+667-for-MC-1.21.10.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.1.0+663-for-MC-1.21.10.jar",
-    "versionNumber": 663,
-    "sha256": "6947DDC7681FF9204FD4C0D73861C222C63261BF54032DE5086301F3A0AE1C40",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/DCPFQqIQ/SkyblockAddons-2.1.0+663-for-MC-1.21.10.jar"
+    "versionName": "SkyblockAddons-2.1.1+667-for-MC-1.21.10.jar",
+    "versionNumber": 667,
+    "sha256": "E1FBD8EFF6989F42E0169C91D29A5F4EA1FC9C66CCFEDB1A4705451AC571D7F0",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/pB23a7ys/SkyblockAddons-2.1.1+667-for-MC-1.21.10.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.10/src/main/resources/lang/%s.json",
   "disabledFeatures": {
