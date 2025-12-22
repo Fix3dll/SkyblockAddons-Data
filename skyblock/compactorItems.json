@@ -954,17 +954,17 @@
   "ENCHANTED_MOONFLOWER": {
     "displayName": "§aEnchanted Moonflower",
     "enchanted": true,
-    "itemId": "blue_orchid"
+    "itemId": "red_flower:1"
   },
   "ENCHANTED_SUNFLOWER": {
     "displayName": "§aEnchanted Sunflower",
     "enchanted": true,
-    "itemId": "sunflower"
+    "itemId": "double_plant:0"
   },
   "ENCHANTED_WILD_ROSE": {
     "displayName": "§aEnchanted Wild Rose",
     "enchanted": true,
-    "itemId": "rose_bush"
+    "itemId": "double_plant:4"
   },
   "COMPACTED_MOONFLOWER": {
     "displayName": "§9Compacted Moonflower",
