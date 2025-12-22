@@ -950,5 +950,44 @@
     "displayName": "§fSlime Block",
     "enchanted": false,
     "itemId": "slime"
+  },
+  "ENCHANTED_MOONFLOWER": {
+    "displayName": "§aEnchanted Moonflower",
+    "enchanted": true,
+    "itemId": "blue_orchid"
+  },
+  "ENCHANTED_SUNFLOWER": {
+    "displayName": "§aEnchanted Sunflower",
+    "enchanted": true,
+    "itemId": "sunflower"
+  },
+  "ENCHANTED_WILD_ROSE": {
+    "displayName": "§aEnchanted Wild Rose",
+    "enchanted": true,
+    "itemId": "rose_bush"
+  },
+  "COMPACTED_MOONFLOWER": {
+    "displayName": "§9Compacted Moonflower",
+    "itemId": "skull",
+    "skullId": "4e3a52c7-415f-3062-b6a3-19c50af87b8f",
+    "texture": "469b3bac406b51ba0e76c2c218aa4d45fde9ea7c101c85fbd8106c92c4aa36dd"
+  },
+  "COMPACTED_SUNFLOWER": {
+    "displayName": "§9Compacted Sunflower",
+    "itemId": "skull",
+    "skullId": "8027fe98-b243-3dc1-8777-e4f6e86aeca9",
+    "texture": "c4989d846862952f8ac844abbd4c1f77bf85e924c2bf98236f8d9253624d879f"
+  },
+  "COMPACTED_WILD_ROSE": {
+    "displayName": "§9Compacted Wild Rose",
+    "itemId": "skull",
+    "skullId": "85ebf8de-5f9a-3edb-b7f7-5e85f749b38e",
+    "texture": "a33051b7c69f51085cc43f0575139cd58afe2b83f33d2a203a5afc266c21019"
+  },
+  "CONDENSED_HELIANTHUS": {
+    "displayName": "§6Condensed Helianthus",
+    "itemId": "skull",
+    "skullId": "ee46d420-e7fd-368e-86e6-a316b69b694d",
+    "texture": "158def01f94a14a0bc1815dce008d2c38544734bf962789165aeef57165fca13"
   }
 }
