@@ -19,6 +19,7 @@ env:
     1.8.9
     1.21.5
     1.21.10
+    1.21.11
   SHARED_FILES: >
     skyblock/cooldowns.json
     skyblock/enchants.json
