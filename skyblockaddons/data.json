@@ -2,14 +2,14 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.1.4",
+    "latestRelease": "2.2.0",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "updateNotes": {
-      "690": "Don't forget to upgrade your Fabric API and Fabric Loader versions. See https://docs.fabricmc.net/players/updating-fabric/"
+      "690": ""
     }
   },
   "autoUpdateStable": {
