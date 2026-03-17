@@ -330,12 +330,12 @@
     "material": "magma_cream"
   },
   "ENCHANTED_MELON": {
-    "displayName": {"text":"","extra":[{"text":"Enchanted Melon","color":"green"}],"italic":false},
+    "displayName": {"text":"","extra":[{"text":"Enchanted Melon Slice","color":"green"}],"italic":false},
     "enchanted": true,
     "material": "melon"
   },
   "ENCHANTED_MELON_BLOCK": {
-    "displayName": {"text":"","extra":[{"text":"Enchanted Melon Block","color":"blue"}],"italic":false},
+    "displayName": {"text":"","extra":[{"text":"Enchanted Melon","color":"blue"}],"italic":false},
     "enchanted": true,
     "material": "melon_block"
   },
@@ -427,7 +427,7 @@
   "ENCHANTED_PUMPKIN": {
     "displayName": {"text":"","extra":[{"text":"Enchanted Pumpkin","color":"green"}],"italic":false},
     "enchanted": true,
-    "material": "pumpkin"
+    "material": "carved_pumpkin"
   },
   "ENCHANTED_QUARTZ": {
     "displayName": {"text":"","extra":[{"text":"Enchanted Quartz","color":"green"}],"italic":false},
