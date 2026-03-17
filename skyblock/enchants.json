@@ -1,1282 +1,712 @@
 {
   "NORMAL": {
+    "aiming": {
+      "goodLevel": 5,
+      "loreName": "Aiming",
+      "maxLevel": 5,
+      "nbtName": "aiming"
+    },
     "angler": {
       "goodLevel": 5,
       "loreName": "Angler",
       "maxLevel": 6,
-      "nbtName": "angler",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "angler"
     },
     "aqua affinity": {
       "goodLevel": 1,
       "loreName": "Aqua Affinity",
       "maxLevel": 1,
-      "nbtName": "aqua_affinity",
-      "appliedTo": [
-        "HELMET"
-      ]
+      "nbtName": "aqua_affinity"
     },
     "bane of arthropods": {
       "goodLevel": 5,
       "loreName": "Bane of Arthropods",
       "maxLevel": 7,
-      "nbtName": "bane_of_arthropods",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "bane_of_arthropods"
     },
     "big brain": {
       "goodLevel": 5,
       "loreName": "Big Brain",
       "maxLevel": 5,
-      "nbtName": "big_brain",
-      "appliedTo": [
-        "HELMET"
-      ]
+      "nbtName": "big_brain"
     },
     "blast protection": {
       "goodLevel": 5,
       "loreName": "Blast Protection",
       "maxLevel": 7,
-      "nbtName": "blast_protection",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "blast_protection"
     },
     "blessing": {
       "goodLevel": 5,
       "loreName": "Blessing",
       "maxLevel": 6,
-      "nbtName": "blessing",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "blessing"
     },
     "caster": {
       "goodLevel": 5,
       "loreName": "Caster",
       "maxLevel": 6,
-      "nbtName": "caster",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "caster"
     },
     "cayenne": {
       "goodLevel": 0,
       "loreName": "Cayenne",
       "maxLevel": 5,
-      "nbtName": "cayenne",
-      "appliedTo": [
-        "GLOVES",
-        "BELT",
-        "NECKLACE",
-        "BRACELET",
-        "CLOAK"
-      ]
+      "nbtName": "cayenne"
     },
     "chance": {
       "goodLevel": 3,
       "loreName": "Chance",
       "maxLevel": 5,
-      "nbtName": "chance",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "chance"
     },
     "charm": {
       "goodLevel": 0,
       "loreName": "Charm",
       "maxLevel": 6,
-      "nbtName": "charm",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "charm"
     },
     "cleave": {
       "goodLevel": 5,
       "loreName": "Cleave",
       "maxLevel": 6,
-      "nbtName": "cleave",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "cleave"
     },
     "corruption": {
       "goodLevel": 0,
       "loreName": "Corruption",
       "maxLevel": 5,
-      "nbtName": "corruption",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "corruption"
     },
     "counter-strike": {
       "goodLevel": 0,
       "loreName": "Counter-Strike",
       "maxLevel": 5,
-      "nbtName": "counter_strike",
-      "appliedTo": [
-        "CHESTPLATE"
-      ]
+      "nbtName": "counter_strike"
     },
     "critical": {
       "goodLevel": 5,
       "loreName": "Critical",
       "maxLevel": 7,
-      "nbtName": "critical",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "critical"
     },
     "cubism": {
       "goodLevel": 5,
       "loreName": "Cubism",
       "maxLevel": 6,
-      "nbtName": "cubism",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "cubism"
     },
     "dedication": {
       "goodLevel": 0,
       "loreName": "Dedication",
       "maxLevel": 4,
-      "nbtName": "dedication",
-      "appliedTo": [
-        "AXE",
-        "HOE"
-      ]
+      "nbtName": "dedication"
     },
     "delicate": {
       "goodLevel": 0,
       "loreName": "Delicate",
       "maxLevel": 5,
-      "nbtName": "delicate",
-      "appliedTo": [
-        "AXE",
-        "HOE"
-      ]
+      "nbtName": "delicate"
     },
     "depth strider": {
       "goodLevel": 3,
       "loreName": "Depth Strider",
       "maxLevel": 3,
-      "nbtName": "depth_strider",
-      "appliedTo": [
-        "BOOTS"
-      ]
+      "nbtName": "depth_strider"
     },
     "divine gift": {
       "goodLevel": 3,
       "loreName": "Divine Gift",
       "maxLevel": 3,
-      "nbtName": "divine_gift",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "divine_gift"
     },
     "dragon tracer": {
       "goodLevel": 5,
       "loreName": "Dragon Tracer",
       "maxLevel": 5,
-      "nbtName": "aiming",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "aiming"
     },
     "drain": {
       "goodLevel": 3,
       "loreName": "Drain",
       "maxLevel": 5,
-      "nbtName": "syphon",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "syphon"
     },
     "efficiency": {
       "goodLevel": 5,
       "loreName": "Efficiency",
       "maxLevel": 10,
-      "nbtName": "efficiency",
-      "appliedTo": [
-        "AXE",
-        "PICKAXE",
-        "DRILL",
-        "SHOVEL",
-        "GAUNTLET"
-      ]
+      "nbtName": "efficiency"
     },
     "ender slayer": {
       "goodLevel": 5,
       "loreName": "Ender Slayer",
       "maxLevel": 7,
-      "nbtName": "ender_slayer",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ender_slayer"
     },
     "execute": {
       "goodLevel": 5,
       "loreName": "Execute",
       "maxLevel": 6,
-      "nbtName": "execute",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "execute"
     },
     "experience": {
       "goodLevel": 3,
       "loreName": "Experience",
       "maxLevel": 5,
-      "nbtName": "experience",
-      "appliedTo": [
-        "SWORD",
-        "PICKAXE",
-        "DRILL",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "experience"
     },
     "feather falling": {
       "goodLevel": 5,
       "loreName": "Feather Falling",
       "maxLevel": 10,
-      "nbtName": "feather_falling",
-      "appliedTo": [
-        "BOOTS"
-      ]
+      "nbtName": "feather_falling"
     },
     "ferocious mana": {
       "goodLevel": 10,
       "loreName": "Ferocious Mana",
       "maxLevel": 10,
-      "nbtName": "ferocious_mana",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ferocious_mana"
     },
     "fire aspect": {
       "goodLevel": 2,
       "loreName": "Fire Aspect",
       "maxLevel": 3,
-      "nbtName": "fire_aspect",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "fire_aspect"
     },
     "fire protection": {
       "goodLevel": 5,
       "loreName": "Fire Protection",
       "maxLevel": 7,
-      "nbtName": "fire_protection",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "fire_protection"
     },
     "first strike": {
       "goodLevel": 4,
       "loreName": "First Strike",
       "maxLevel": 5,
-      "nbtName": "first_strike",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "first_strike"
     },
     "flame": {
       "goodLevel": 1,
       "loreName": "Flame",
       "maxLevel": 2,
-      "nbtName": "flame",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "flame"
     },
     "forest pledge": {
       "goodLevel": 2,
       "loreName": "Forest Pledge",
       "maxLevel": 5,
-      "nbtName": "forest_pledge",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "forest_pledge"
     },
     "fortune": {
       "goodLevel": 3,
       "loreName": "Fortune",
       "maxLevel": 4,
-      "nbtName": "fortune",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET"
-      ]
+      "nbtName": "fortune"
     },
     "frail": {
       "goodLevel": 5,
       "loreName": "Frail",
       "maxLevel": 7,
-      "nbtName": "frail",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "frail"
     },
     "frost walker": {
       "goodLevel": 2,
       "loreName": "Frost Walker",
       "maxLevel": 2,
-      "nbtName": "frost_walker",
-      "appliedTo": [
-        "BOOTS"
-      ]
+      "nbtName": "frost_walker"
     },
     "giant killer": {
       "goodLevel": 5,
       "loreName": "Giant Killer",
       "maxLevel": 7,
-      "nbtName": "giant_killer",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "giant_killer"
     },
     "gravity": {
       "goodLevel": 5,
       "loreName": "Gravity",
       "maxLevel": 6,
-      "nbtName": "dragon_hunter",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "dragon_hunter"
     },
     "great spook": {
       "goodLevel": 1,
       "loreName": "Great Spook",
       "maxLevel": 1,
-      "nbtName": "great_spook",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "great_spook"
     },
     "green thumb": {
       "goodLevel": 0,
       "loreName": "Green Thumb",
       "maxLevel": 5,
-      "nbtName": "green_thumb",
-      "appliedTo": [
-        "BELT",
-        "NECKLACE",
-        "BRACELET",
-        "CLOAK"
-      ]
+      "nbtName": "green_thumb"
     },
     "growth": {
       "goodLevel": 5,
       "loreName": "Growth",
       "maxLevel": 7,
-      "nbtName": "growth",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "growth"
     },
     "hardened mana": {
       "goodLevel": 10,
       "loreName": "Hardened Mana",
       "maxLevel": 10,
-      "nbtName": "hardened_mana",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "hardened_mana"
     },
     "harvesting": {
       "goodLevel": 5,
       "loreName": "Harvesting",
       "maxLevel": 6,
-      "nbtName": "harvesting",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "harvesting"
     },
     "ice cold": {
       "goodLevel": 0,
       "loreName": "Ice Cold",
       "maxLevel": 5,
-      "nbtName": "ice_cold",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ice_cold"
     },
     "impaling": {
       "goodLevel": 5,
       "loreName": "Impaling",
       "maxLevel": 5,
-      "nbtName": "impaling",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_ROD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "impaling"
     },
     "infinite quiver": {
       "goodLevel": 5,
       "loreName": "Infinite Quiver",
       "maxLevel": 10,
-      "nbtName": "infinite_quiver",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "infinite_quiver"
     },
     "knockback": {
       "goodLevel": 2,
       "loreName": "Knockback",
       "maxLevel": 2,
-      "nbtName": "knockback",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "knockback"
     },
     "lapidary": {
       "goodLevel": 0,
       "loreName": "Lapidary",
       "maxLevel": 5,
-      "nbtName": "lapidary",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET"
-      ]
+      "nbtName": "lapidary"
     },
     "lethality": {
       "goodLevel": 5,
       "loreName": "Lethality",
       "maxLevel": 6,
-      "nbtName": "lethality",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "lethality"
     },
     "life steal": {
       "goodLevel": 3,
       "loreName": "Life Steal",
       "maxLevel": 5,
-      "nbtName": "life_steal",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "life_steal"
     },
     "looting": {
       "goodLevel": 3,
       "loreName": "Looting",
       "maxLevel": 5,
-      "nbtName": "looting",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_ROD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "looting"
     },
     "luck": {
       "goodLevel": 5,
       "loreName": "Luck",
       "maxLevel": 7,
-      "nbtName": "luck",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "luck"
     },
     "luck of the sea": {
       "goodLevel": 5,
       "loreName": "Luck Of The Sea",
       "maxLevel": 7,
-      "nbtName": "luck_of_the_sea",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "luck_of_the_sea"
     },
     "lure": {
       "goodLevel": 5,
       "loreName": "Lure",
       "maxLevel": 6,
-      "nbtName": "lure",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "lure"
     },
     "magnet": {
       "goodLevel": 5,
       "loreName": "Magnet",
       "maxLevel": 6,
-      "nbtName": "magnet",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "magnet"
     },
     "mana steal": {
       "goodLevel": 0,
       "loreName": "Mana Steal",
       "maxLevel": 3,
-      "nbtName": "mana_steal",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "mana_steal"
     },
     "mana vampire": {
       "goodLevel": 10,
       "loreName": "Mana Vampire",
       "maxLevel": 10,
-      "nbtName": "mana_vampire",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "mana_vampire"
     },
     "overload": {
       "goodLevel": 0,
       "loreName": "Overload",
       "maxLevel": 5,
-      "nbtName": "overload",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "overload"
     },
     "paleontologist": {
       "goodLevel": 0,
       "loreName": "Paleontologist",
       "maxLevel": 5,
-      "nbtName": "paleontologist",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET"
-      ]
+      "nbtName": "paleontologist"
     },
     "pesterminator": {
       "goodLevel": 0,
       "loreName": "Pesterminator",
       "maxLevel": 6,
-      "nbtName": "pesterminator",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "pesterminator"
     },
     "piercing": {
       "goodLevel": 1,
       "loreName": "Piercing",
       "maxLevel": 1,
-      "nbtName": "piercing",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "piercing"
     },
     "piscary": {
       "goodLevel": 5,
       "loreName": "Piscary",
       "maxLevel": 7,
-      "nbtName": "piscary",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "piscary"
     },
     "power": {
       "goodLevel": 5,
       "loreName": "Power",
       "maxLevel": 7,
-      "nbtName": "power",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "power"
     },
     "prismatic": {
       "goodLevel": 0,
       "loreName": "Prismatic",
       "maxLevel": 5,
-      "nbtName": "pristine",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET"
-      ]
+      "nbtName": "pristine"
     },
     "projectile protection": {
       "goodLevel": 5,
       "loreName": "Projectile Protection",
       "maxLevel": 7,
-      "nbtName": "projectile_protection",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "projectile_protection"
     },
     "prosecute": {
       "goodLevel": 5,
       "loreName": "Prosecute",
       "maxLevel": 6,
-      "nbtName": "PROSECUTE",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "PROSECUTE"
     },
     "prosperity": {
       "goodLevel": 0,
       "loreName": "Prosperity",
       "maxLevel": 5,
-      "nbtName": "prosperity",
-      "appliedTo": [
-        "GLOVES",
-        "BELT",
-        "NECKLACE",
-        "BRACELET",
-        "CLOAK"
-      ]
+      "nbtName": "prosperity"
     },
     "protection": {
       "goodLevel": 5,
       "loreName": "Protection",
       "maxLevel": 7,
-      "nbtName": "protection",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "protection"
     },
     "punch": {
       "goodLevel": 2,
       "loreName": "Punch",
       "maxLevel": 2,
-      "nbtName": "punch",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "punch"
     },
     "quantum": {
       "goodLevel": 0,
       "loreName": "Quantum",
       "maxLevel": 5,
-      "nbtName": "quantum",
-      "appliedTo": [
-        "NECKLACE"
-      ]
+      "nbtName": "quantum"
     },
     "quick bite": {
       "goodLevel": 0,
       "loreName": "Quick Bite",
       "maxLevel": 5,
-      "nbtName": "quick_bite",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "quick_bite"
     },
     "rainbow": {
       "goodLevel": 1,
       "loreName": "Rainbow",
       "maxLevel": 3,
-      "nbtName": "rainbow",
-      "appliedTo": [
-        "SHEARS"
-      ]
+      "nbtName": "rainbow"
     },
     "reflection": {
       "goodLevel": 0,
       "loreName": "Reflection",
       "maxLevel": 5,
-      "nbtName": "reflection",
-      "appliedTo": [
-        "CHESTPLATE"
-      ]
+      "nbtName": "reflection"
     },
     "rejuvenate": {
       "goodLevel": 0,
       "loreName": "Rejuvenate",
       "maxLevel": 5,
-      "nbtName": "rejuvenate",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "rejuvenate"
     },
     "replenish": {
       "goodLevel": 1,
       "loreName": "Replenish",
       "maxLevel": 1,
-      "nbtName": "replenish",
-      "appliedTo": [
-        "AXE",
-        "HOE"
-      ]
+      "nbtName": "replenish"
     },
     "respiration": {
       "goodLevel": 3,
       "loreName": "Respiration",
       "maxLevel": 4,
-      "nbtName": "respiration",
-      "appliedTo": [
-        "HELMET"
-      ]
+      "nbtName": "respiration"
     },
     "respite": {
       "goodLevel": 5,
       "loreName": "Respite",
       "maxLevel": 5,
-      "nbtName": "respite",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "respite"
     },
     "scavenger": {
       "goodLevel": 3,
       "loreName": "Scavenger",
       "maxLevel": 6,
-      "nbtName": "scavenger",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "scavenger"
     },
     "scuba": {
       "goodLevel": 0,
       "loreName": "Scuba",
       "maxLevel": 5,
-      "nbtName": "scuba",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "scuba"
     },
     "sharpness": {
       "goodLevel": 5,
       "loreName": "Sharpness",
       "maxLevel": 7,
-      "nbtName": "sharpness",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "sharpness"
     },
     "silk touch": {
       "goodLevel": 1,
       "loreName": "Silk Touch",
       "maxLevel": 1,
-      "nbtName": "silk_touch",
-      "appliedTo": [
-        "AXE",
-        "PICKAXE",
-        "DRILL",
-        "SHOVEL",
-        "GAUNTLET"
-      ]
+      "nbtName": "silk_touch"
     },
     "small brain": {
       "goodLevel": 0,
       "loreName": "Small Brain",
       "maxLevel": 5,
-      "nbtName": "small_brain",
-      "appliedTo": [
-        "HELMET"
-      ]
+      "nbtName": "small_brain"
     },
     "smarty pants": {
       "goodLevel": 0,
       "loreName": "Smarty Pants",
       "maxLevel": 5,
-      "nbtName": "smarty_pants",
-      "appliedTo": [
-        "LEGGINGS"
-      ]
+      "nbtName": "smarty_pants"
     },
     "smelting touch": {
       "goodLevel": 1,
       "loreName": "Smelting Touch",
       "maxLevel": 1,
-      "nbtName": "smelting_touch",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET",
-        "SHOVEL"
-      ]
+      "nbtName": "smelting_touch"
     },
     "smite": {
       "goodLevel": 5,
       "loreName": "Smite",
       "maxLevel": 7,
-      "nbtName": "smite",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "smite"
     },
     "smoldering": {
       "goodLevel": 0,
       "loreName": "Smoldering",
       "maxLevel": 5,
-      "nbtName": "smoldering",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_ROD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "smoldering"
     },
     "snipe": {
       "goodLevel": 3,
       "loreName": "Snipe",
       "maxLevel": 4,
-      "nbtName": "snipe",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "snipe"
     },
     "spiked hook": {
       "goodLevel": 5,
       "loreName": "Spiked Hook",
       "maxLevel": 7,
-      "nbtName": "spiked_hook",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "spiked_hook"
     },
     "stealth": {
       "goodLevel": 0,
       "loreName": "Stealth",
       "maxLevel": 1,
-      "nbtName": "stealth",
-      "appliedTo": [
-        "BOOTS"
-      ]
+      "nbtName": "stealth"
     },
     "strong mana": {
       "goodLevel": 10,
       "loreName": "Strong Mana",
       "maxLevel": 10,
-      "nbtName": "strong_mana",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "strong_mana"
     },
     "sugar rush": {
       "goodLevel": 0,
       "loreName": "Sugar Rush",
       "maxLevel": 3,
-      "nbtName": "sugar_rush",
-      "appliedTo": [
-        "BOOTS"
-      ]
+      "nbtName": "sugar_rush"
     },
     "sunder": {
       "goodLevel": 0,
       "loreName": "Sunder",
       "maxLevel": 6,
-      "nbtName": "sunder",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "sunder"
     },
     "tabasco": {
       "goodLevel": 0,
       "loreName": "Tabasco",
       "maxLevel": 3,
-      "nbtName": "tabasco",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_ROD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "tabasco"
     },
     "thorns": {
       "goodLevel": 3,
       "loreName": "Thorns",
       "maxLevel": 3,
-      "nbtName": "thorns",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "thorns"
     },
     "thunderbolt": {
       "goodLevel": 5,
       "loreName": "Thunderbolt",
       "maxLevel": 7,
-      "nbtName": "thunderbolt",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "thunderbolt"
     },
     "thunderlord": {
       "goodLevel": 5,
       "loreName": "Thunderlord",
       "maxLevel": 7,
-      "nbtName": "thunderlord",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "thunderlord"
     },
     "tidal": {
       "goodLevel": 0,
       "loreName": "Tidal",
       "maxLevel": 3,
-      "nbtName": "tidal",
-      "appliedTo": [
-        "LEGGINGS"
-      ]
+      "nbtName": "tidal"
     },
     "titan killer": {
       "goodLevel": 5,
       "loreName": "Titan Killer",
       "maxLevel": 7,
-      "nbtName": "titan_killer",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "titan_killer"
     },
     "transylvanian": {
       "goodLevel": 0,
       "loreName": "Transylvanian",
       "maxLevel": 5,
-      "nbtName": "transylvanian",
-      "appliedTo": [
-        "HELMET"
-      ]
+      "nbtName": "transylvanian"
     },
     "triple-strike": {
       "goodLevel": 4,
       "loreName": "Triple-Strike",
       "maxLevel": 5,
-      "nbtName": "triple_strike",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "triple_strike"
     },
     "true protection": {
       "goodLevel": 0,
       "loreName": "True Protection",
       "maxLevel": 1,
-      "nbtName": "true_protection",
-      "appliedTo": [
-        "CHESTPLATE"
-      ]
+      "nbtName": "true_protection"
     },
     "turbo-cacti": {
       "goodLevel": 0,
       "loreName": "Turbo-Cacti",
       "maxLevel": 5,
-      "nbtName": "turbo_cactus",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_cactus"
     },
     "turbo-cane": {
       "goodLevel": 0,
       "loreName": "Turbo-Cane",
       "maxLevel": 5,
-      "nbtName": "turbo_cane",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_cane"
     },
     "turbo-carrot": {
       "goodLevel": 0,
       "loreName": "Turbo-Carrot",
       "maxLevel": 5,
-      "nbtName": "turbo_carrot",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_carrot"
     },
     "turbo-cocoa": {
       "goodLevel": 0,
       "loreName": "Turbo-Cocoa",
       "maxLevel": 5,
-      "nbtName": "turbo_coco",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "turbo_coco"
     },
     "turbo-melon": {
       "goodLevel": 0,
       "loreName": "Turbo-Melon",
       "maxLevel": 5,
-      "nbtName": "turbo_melon",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "turbo_melon"
     },
     "turbo-moonflower": {
       "goodLevel": 0,
       "loreName": "Turbo-Moonflower",
       "maxLevel": 5,
-      "nbtName": "turbo_moonflower",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_moonflower"
     },
     "turbo-mushrooms": {
       "goodLevel": 0,
       "loreName": "Turbo-Mushrooms",
       "maxLevel": 5,
-      "nbtName": "turbo_mushrooms",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_mushrooms"
     },
     "turbo-potato": {
       "goodLevel": 0,
       "loreName": "Turbo-Potato",
       "maxLevel": 5,
-      "nbtName": "turbo_potato",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_potato"
     },
     "turbo-pumpkin": {
       "goodLevel": 0,
       "loreName": "Turbo-Pumpkin",
       "maxLevel": 5,
-      "nbtName": "turbo_pumpkin",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "turbo_pumpkin"
     },
     "turbo-rose": {
       "goodLevel": 0,
       "loreName": "Turbo-Rose",
       "maxLevel": 5,
-      "nbtName": "turbo_rose",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_rose"
     },
     "turbo-sunflower": {
       "goodLevel": 0,
       "loreName": "Turbo-Sunflower",
       "maxLevel": 5,
-      "nbtName": "turbo_sunflower",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_sunflower"
     },
     "turbo-warts": {
       "goodLevel": 0,
       "loreName": "Turbo-Warts",
       "maxLevel": 5,
-      "nbtName": "turbo_warts",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_warts"
     },
     "turbo-wheat": {
       "goodLevel": 0,
       "loreName": "Turbo-Wheat",
       "maxLevel": 5,
-      "nbtName": "turbo_wheat",
-      "appliedTo": [
-        "HOE"
-      ]
+      "nbtName": "turbo_wheat"
     },
     "vampirism": {
       "goodLevel": 5,
       "loreName": "Vampirism",
       "maxLevel": 6,
-      "nbtName": "vampirism",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "vampirism"
     },
     "venomous": {
       "goodLevel": 5,
       "loreName": "Venomous",
       "maxLevel": 7,
-      "nbtName": "venomous",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "venomous"
     },
     "vicious": {
       "goodLevel": 0,
       "loreName": "Vicious",
       "maxLevel": 5,
-      "nbtName": "vicious",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "vicious"
     },
     "woodsplitter": {
       "goodLevel": 5,
       "loreName": "Woodsplitter",
       "maxLevel": 6,
-      "nbtName": "arcane",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "arcane"
     }
   },
   "STACKING": {
@@ -1298,10 +728,7 @@
         25000000,
         50000000
       ],
-      "statLabel": "absorbLogsChopped",
-      "appliedTo": [
-        "AXE"
-      ]
+      "statLabel": "absorbLogsChopped"
     },
     "champion": {
       "goodLevel": 0,
@@ -1321,13 +748,7 @@
         50000,
         500000
       ],
-      "statLabel": "championCombatXp",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "statLabel": "championCombatXp"
     },
     "compact": {
       "goodLevel": 0,
@@ -1347,12 +768,7 @@
         50000,
         500000
       ],
-      "statLabel": "compactedBlocks",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET"
-      ]
+      "statLabel": "compactedBlocks"
     },
     "cultivating": {
       "goodLevel": 0,
@@ -1372,10 +788,7 @@
         5000,
         5000000
       ],
-      "statLabel": "cultivatedCrops",
-      "appliedTo": [
-        "HOE"
-      ]
+      "statLabel": "cultivatedCrops"
     },
     "expertise": {
       "goodLevel": 0,
@@ -1395,11 +808,7 @@
         500,
         5500
       ],
-      "statLabel": "expertiseKills",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "statLabel": "expertiseKills"
     },
     "hecatomb": {
       "goodLevel": 0,
@@ -1419,10 +828,7 @@
         60,
         80
       ],
-      "statLabel": "hecatombsSRuns",
-      "appliedTo": [
-        "HELMET"
-      ]
+      "statLabel": "hecatombsSRuns"
     },
     "toxophilite": {
       "goodLevel": 0,
@@ -1442,10 +848,7 @@
         50000,
         500000
       ],
-      "statLabel": "toxophiliteCombatXp",
-      "appliedTo": [
-        "BOW"
-      ]
+      "statLabel": "toxophiliteCombatXp"
     }
   },
   "ULTIMATE": {
@@ -1453,489 +856,151 @@
       "goodLevel": 0,
       "loreName": "Bank",
       "maxLevel": 5,
-      "nbtName": "ultimate_bank",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_bank"
     },
     "bobbin time": {
       "goodLevel": 3,
       "loreName": "Bobbin' Time",
       "maxLevel": 5,
-      "nbtName": "ultimate_bobbin_time",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_bobbin_time"
     },
     "chimera": {
       "goodLevel": 0,
       "loreName": "Chimera",
       "maxLevel": 5,
-      "nbtName": "ultimate_chimera",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_chimera"
     },
     "combo": {
       "goodLevel": 0,
       "loreName": "Combo",
       "maxLevel": 5,
-      "nbtName": "ultimate_combo",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_combo"
     },
     "crop fever": {
       "goodLevel": 0,
       "loreName": "Crop Fever",
       "maxLevel": 5,
-      "nbtName": "ultimate_crop_fever",
-      "appliedTo": [
-        "AXE",
-        "HOE"
-      ]
+      "nbtName": "ultimate_crop_fever"
     },
     "duplex": {
       "goodLevel": 0,
       "loreName": "Duplex",
       "maxLevel": 5,
-      "nbtName": "ultimate_reiterate",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "ultimate_reiterate"
     },
     "fatal tempo": {
       "goodLevel": 0,
       "loreName": "Fatal Tempo",
       "maxLevel": 5,
-      "nbtName": "ultimate_fatal_tempo",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_ROD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_fatal_tempo"
     },
     "first impression": {
       "goodLevel": 0,
       "loreName": "First Impression",
       "maxLevel": 5,
-      "nbtName": "ultimate_first_impression",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "ultimate_first_impression"
     },
     "flash": {
       "goodLevel": 0,
       "loreName": "Flash",
       "maxLevel": 5,
-      "nbtName": "ultimate_flash",
-      "appliedTo": [
-        "FISHING_ROD",
-        "FISHING_WEAPON"
-      ]
+      "nbtName": "ultimate_flash"
     },
     "flowstate": {
       "goodLevel": 0,
       "loreName": "Flowstate",
       "maxLevel": 3,
-      "nbtName": "ultimate_flowstate",
-      "appliedTo": [
-        "PICKAXE",
-        "DRILL",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_flowstate"
     },
     "habanero tactics": {
       "goodLevel": 0,
       "loreName": "Habanero Tactics",
       "maxLevel": 5,
-      "nbtName": "ultimate_habanero_tactics",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_habanero_tactics"
     },
     "inferno": {
       "goodLevel": 0,
       "loreName": "Inferno",
       "maxLevel": 5,
-      "nbtName": "ultimate_inferno",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_ROD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_inferno"
     },
     "last stand": {
       "goodLevel": 0,
       "loreName": "Last Stand",
       "maxLevel": 5,
-      "nbtName": "ultimate_last_stand",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_last_stand"
     },
     "legion": {
       "goodLevel": 0,
       "loreName": "Legion",
       "maxLevel": 5,
-      "nbtName": "ultimate_legion",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_legion"
     },
     "missile": {
       "goodLevel": 0,
       "loreName": "Missile",
       "maxLevel": 5,
-      "nbtName": "ultimate_missile",
-      "appliedTo": [
-        "AXE"
-      ]
+      "nbtName": "ultimate_missile"
     },
     "no pain no gain": {
       "goodLevel": 0,
       "loreName": "No Pain No Gain",
       "maxLevel": 5,
-      "nbtName": "ultimate_no_pain_no_gain",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_no_pain_no_gain"
     },
     "one for all": {
       "goodLevel": 0,
       "loreName": "One For All",
       "maxLevel": 5,
-      "nbtName": "ultimate_one_for_all",
-      "appliedTo": [
-        "SWORD",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_one_for_all"
     },
     "refrigerate": {
       "goodLevel": 0,
       "loreName": "Refrigerate",
       "maxLevel": 5,
-      "nbtName": "ultimate_refrigerate",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_refrigerate"
     },
     "rend": {
       "goodLevel": 0,
       "loreName": "Rend",
       "maxLevel": 5,
-      "nbtName": "ultimate_rend",
-      "appliedTo": [
-        "BOW"
-      ]
+      "nbtName": "ultimate_rend"
     },
     "soul eater": {
       "goodLevel": 0,
       "loreName": "Soul Eater",
       "maxLevel": 5,
-      "nbtName": "ultimate_soul_eater",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_soul_eater"
     },
     "swarm": {
       "goodLevel": 0,
       "loreName": "Swarm",
       "maxLevel": 5,
-      "nbtName": "ultimate_swarm",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET"
-      ]
+      "nbtName": "ultimate_swarm"
     },
     "the one": {
       "goodLevel": 0,
       "loreName": "The One",
       "maxLevel": 5,
-      "nbtName": "ultimate_the_one",
-      "appliedTo": [
-        "NECKLACE"
-      ]
+      "nbtName": "ultimate_the_one"
     },
     "ultimate jerry": {
       "goodLevel": 0,
       "loreName": "Ultimate Jerry",
       "maxLevel": 5,
-      "nbtName": "ultimate_jerry",
-      "appliedTo": []
+      "nbtName": "ultimate_jerry"
     },
     "ultimate wise": {
       "goodLevel": 0,
       "loreName": "Ultimate Wise",
       "maxLevel": 5,
-      "nbtName": "ultimate_wise",
-      "appliedTo": [
-        "SWORD",
-        "BOW",
-        "FISHING_WEAPON",
-        "LONGSWORD",
-        "GAUNTLET",
-        "SHEARS",
-        "SHOVEL"
-      ]
+      "nbtName": "ultimate_wise"
     },
     "wisdom": {
       "goodLevel": 0,
       "loreName": "Wisdom",
       "maxLevel": 5,
-      "nbtName": "ultimate_wisdom",
-      "appliedTo": [
-        "HELMET",
-        "CHESTPLATE",
-        "LEGGINGS",
-        "BOOTS",
-        "CARNIVAL_MASK"
-      ]
+      "nbtName": "ultimate_wisdom"
     }
-  },
-  "ENCHANT_POOLS": [
-    [
-      "silk_touch",
-      "smelting_touch",
-      "fortune"
-    ],
-    [
-      "protection",
-      "blast_protection",
-      "fire_protection",
-      "projectile_protection"
-    ],
-    [
-      "rejuvenate",
-      "respite"
-    ],
-    [
-      "thunderlord",
-      "thunderbolt"
-    ],
-    [
-      "syphon",
-      "life_steal",
-      "mana_steal"
-    ],
-    [
-      "execute",
-      "PROSECUTE"
-    ],
-    [
-      "depth_strider",
-      "frost_walker"
-    ],
-    [
-      "first_strike",
-      "triple_strike"
-    ],
-    [
-      "giant_killer",
-      "titan_killer"
-    ],
-    [
-      "ultimate_one_for_all",
-      "bane_of_arthropods"
-    ],
-    [
-      "ultimate_one_for_all",
-      "cleave"
-    ],
-    [
-      "ultimate_one_for_all",
-      "critical"
-    ],
-    [
-      "ultimate_one_for_all",
-      "cubism"
-    ],
-    [
-      "ultimate_one_for_all",
-      "dragon_hunter"
-    ],
-    [
-      "ultimate_one_for_all",
-      "ender_slayer"
-    ],
-    [
-      "ultimate_one_for_all",
-      "execute"
-    ],
-    [
-      "ultimate_one_for_all",
-      "experience"
-    ],
-    [
-      "ultimate_one_for_all",
-      "fire_aspect"
-    ],
-    [
-      "ultimate_one_for_all",
-      "first_strike"
-    ],
-    [
-      "ultimate_one_for_all",
-      "giant_killer"
-    ],
-    [
-      "ultimate_one_for_all",
-      "impaling"
-    ],
-    [
-      "ultimate_one_for_all",
-      "knockback"
-    ],
-    [
-      "ultimate_one_for_all",
-      "lethality"
-    ],
-    [
-      "ultimate_one_for_all",
-      "life_steal"
-    ],
-    [
-      "ultimate_one_for_all",
-      "looting"
-    ],
-    [
-      "ultimate_one_for_all",
-      "luck"
-    ],
-    [
-      "ultimate_one_for_all",
-      "mana_steal"
-    ],
-    [
-      "ultimate_one_for_all",
-      "PROSECUTE"
-    ],
-    [
-      "ultimate_one_for_all",
-      "scavenger"
-    ],
-    [
-      "ultimate_one_for_all",
-      "sharpness"
-    ],
-    [
-      "ultimate_one_for_all",
-      "smite"
-    ],
-    [
-      "ultimate_one_for_all",
-      "syphon"
-    ],
-    [
-      "ultimate_one_for_all",
-      "titan_killer"
-    ],
-    [
-      "ultimate_one_for_all",
-      "thunderlord"
-    ],
-    [
-      "ultimate_one_for_all",
-      "thunderbolt"
-    ],
-    [
-      "ultimate_one_for_all",
-      "triple_strike"
-    ],
-    [
-      "ultimate_one_for_all",
-      "vampirism"
-    ],
-    [
-      "ultimate_one_for_all",
-      "venomous"
-    ],
-    [
-      "ultimate_one_for_all",
-      "vicious"
-    ],
-    [
-      "turbo_pumpkin",
-      "turbo_warts",
-      "turbo_cactus",
-      "turbo_cane",
-      "turbo_carrot",
-      "turbo_coco",
-      "turbo_melon",
-      "turbo_mushrooms",
-      "turbo_potato",
-      "turbo_wheat",
-      "turbo_rose",
-      "turbo_moonflower",
-      "turbo_sunflower"
-    ],
-    [
-      "hardened_mana",
-      "strong_mana",
-      "mana_vampire",
-      "ferocious_mana"
-    ],
-    [
-      "ultimate_one_for_all",
-      "smoldering"
-    ],
-    [
-      "reflection",
-      "thorns"
-    ],
-    [
-      "big_brain",
-      "small_brain"
-    ]
-  ]
+  }
 }
