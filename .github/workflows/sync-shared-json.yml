@@ -27,7 +27,7 @@ env:
     skyblock/seaCreatures.json
     skyblock/skillXp.json
     skyblock/slayerLocations.json
-#    skyblock/containers.json
+    skyblock/containers.json
 
 permissions:
   contents: write
