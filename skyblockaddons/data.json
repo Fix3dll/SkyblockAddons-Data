@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.1.12",
+    "latestRelease": "2.1.13",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
@@ -11,20 +11,20 @@
     "updateNotes": {
       "690": "Don't forget to upgrade your Fabric API and Fabric Loader versions. See https://docs.fabricmc.net/players/updating-fabric/",
       "698": "SBA has been released for Minecraft 1.21.11! Check the changelog for details.",
-      "799": "Last update for 1.21.10. SBA for 26.1 will be released soon."
+      "803": "Hotfix related to chroma and a few minor fixes/improvements. This is the latest version for 1.21.10, unless there is a major issue. SBA for 26.1 will be released soon."
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.1.12+799-for-MC-1.21.10",
-    "versionNumber": 799,
-    "sha256": "4F798B8E46A166E5C52EB93684E485F5D6DA42C367EEDEFE5B1B19B8509CD10A",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/KQpvyUSq/SkyblockAddons-2.1.12+799-for-MC-1.21.10.jar"
+    "versionName": "SkyblockAddons-2.1.13+803-for-MC-1.21.10.jar",
+    "versionNumber": 803,
+    "sha256": "3C30B135F292F68887EFAB85CFFE89A91BA04A8814E9178EFAFC7647A91FA8D5",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/7ACDtxtI/SkyblockAddons-2.1.13+803-for-MC-1.21.10.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.1.12+799-for-MC-1.21.10",
-    "versionNumber": 799,
-    "sha256": "4F798B8E46A166E5C52EB93684E485F5D6DA42C367EEDEFE5B1B19B8509CD10A",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/KQpvyUSq/SkyblockAddons-2.1.12+799-for-MC-1.21.10.jar"
+    "versionName": "SkyblockAddons-2.1.13+803-for-MC-1.21.10.jar",
+    "versionNumber": 803,
+    "sha256": "3C30B135F292F68887EFAB85CFFE89A91BA04A8814E9178EFAFC7647A91FA8D5",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/7ACDtxtI/SkyblockAddons-2.1.13+803-for-MC-1.21.10.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.10/src/main/resources/lang/%s.json",
   "disabledFeatures": {
