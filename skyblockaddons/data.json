@@ -2,27 +2,27 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.2.7",
+    "latestRelease": "2.2.8",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "updateNotes": {
-      "690": ""
+      "808": "This is the second major hotfix release in a single day. I apologize for this."
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.2.7+804-for-MC-1.21.11.jar",
-    "versionNumber": 804,
-    "sha256": "0065C90C93DFA2A4D05A3B397C93520387B3C7BBFE85975441546957EE0849FA",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/SWzOm4yO/SkyblockAddons-2.2.7+804-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar",
+    "versionNumber": 808,
+    "sha256": "1EFA60A706FA340734678B7A9D70A8766695CBF4B0B09EFF9396512C5C4FB25E",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/On8utXPu/SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.2.7+804-for-MC-1.21.11.jar",
-    "versionNumber": 804,
-    "sha256": "0065C90C93DFA2A4D05A3B397C93520387B3C7BBFE85975441546957EE0849FA",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/SWzOm4yO/SkyblockAddons-2.2.7+804-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar",
+    "versionNumber": 808,
+    "sha256": "1EFA60A706FA340734678B7A9D70A8766695CBF4B0B09EFF9396512C5C4FB25E",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/On8utXPu/SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.11/src/main/resources/lang/%s.json",
   "disabledFeatures": {
