@@ -2,27 +2,28 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.2.8",
+    "latestRelease": "2.2.9",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "updateNotes": {
-      "808": "This is the second major hotfix release in a single day. I apologize for this."
+      "808": "This is the second major hotfix release in a single day. I apologize for this.",
+      "820": "SkyblockAddons for FabricMC 26.1 is out!"
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar",
-    "versionNumber": 808,
-    "sha256": "1EFA60A706FA340734678B7A9D70A8766695CBF4B0B09EFF9396512C5C4FB25E",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/On8utXPu/SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.9+820-for-MC-1.21.11.jar",
+    "versionNumber": 820,
+    "sha256": "010BB36374C7A9CBD7DE331D1545345B8F90139EC1EB647079D9154FBACD67E1",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/vvQtg7OW/SkyblockAddons-2.2.9+820-for-MC-1.21.11.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar",
-    "versionNumber": 808,
-    "sha256": "1EFA60A706FA340734678B7A9D70A8766695CBF4B0B09EFF9396512C5C4FB25E",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/On8utXPu/SkyblockAddons-2.2.8+808-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.9+820-for-MC-1.21.11.jar",
+    "versionNumber": 820,
+    "sha256": "010BB36374C7A9CBD7DE331D1545345B8F90139EC1EB647079D9154FBACD67E1",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/vvQtg7OW/SkyblockAddons-2.2.9+820-for-MC-1.21.11.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.11/src/main/resources/lang/%s.json",
   "disabledFeatures": {
