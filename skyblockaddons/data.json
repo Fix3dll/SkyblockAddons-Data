@@ -2,27 +2,27 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.3.1",
+    "latestRelease": "2.3.2",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "updateNotes": {
-      "808": "This is the second major hotfix release in a single day. I apologize for this."
+      "808": ""
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.3.1+876-for-MC-26.1.jar",
-    "versionNumber": 876,
-    "sha256": "EEF62073E95C6625C6ACA7A0B51EC2A9A2D655841A42537BAA64EFBAA13FE643",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/SVyRPukz/SkyblockAddons-2.3.1+876-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.2+880-for-MC-26.1.jar",
+    "versionNumber": 880,
+    "sha256": "AA7B84A04F5040E3ABB58B574B6D06913F9C499A20B6CC6316E5B82BD1F56171",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ENrMOJ5L/SkyblockAddons-2.3.2+880-for-MC-26.1.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.3.1+876-for-MC-26.1.jar",
-    "versionNumber": 876,
-    "sha256": "EEF62073E95C6625C6ACA7A0B51EC2A9A2D655841A42537BAA64EFBAA13FE643",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/SVyRPukz/SkyblockAddons-2.3.1+876-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.2+880-for-MC-26.1.jar",
+    "versionNumber": 880,
+    "sha256": "AA7B84A04F5040E3ABB58B574B6D06913F9C499A20B6CC6316E5B82BD1F56171",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ENrMOJ5L/SkyblockAddons-2.3.2+880-for-MC-26.1.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.11/src/main/resources/lang/%s.json",
   "disabledFeatures": {
