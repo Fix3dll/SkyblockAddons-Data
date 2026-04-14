@@ -30,6 +30,7 @@ env:
     skyblock/skillXp.json
     skyblock/slayerLocations.json
     skyblock/containers.json
+    skyblock/regex.json
 
 permissions:
   contents: write
