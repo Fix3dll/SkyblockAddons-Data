@@ -2,27 +2,28 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.3.5",
+    "latestRelease": "2.3.6",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "updateNotes": {
-      "808": ""
+      "808": "",
+      "975": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally."
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.3.5+955-for-MC-26.1.jar",
-    "versionNumber": 955,
-    "sha256": "223193EAB4DC9E14FEB89551747DAE21B47C1C4162017BB8D2F6D894AE335994",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/jEBuwmGt/SkyblockAddons-2.3.5+955-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.6+975-for-MC-26.1.jar",
+    "versionNumber": 975,
+    "sha256": "5A5328ABC39B2562FF681801BA9095F61C61ACC0DEC4502A9CA05C966015E695",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ExfEyIwA/SkyblockAddons-2.3.6+975-for-MC-26.1.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.3.5+955-for-MC-26.1.jar",
-    "versionNumber": 955,
-    "sha256": "223193EAB4DC9E14FEB89551747DAE21B47C1C4162017BB8D2F6D894AE335994",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/jEBuwmGt/SkyblockAddons-2.3.5+955-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.6+975-for-MC-26.1.jar",
+    "versionNumber": 975,
+    "sha256": "5A5328ABC39B2562FF681801BA9095F61C61ACC0DEC4502A9CA05C966015E695",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ExfEyIwA/SkyblockAddons-2.3.6+975-for-MC-26.1.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.11/src/main/resources/lang/%s.json",
   "disabledFeatures": {
