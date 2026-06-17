@@ -2,29 +2,32 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.2.14",
+    "latestRelease": "2.2.15",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
+    "releaseCompatibleMcVersions": [],
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
+    "betaCompatibleMcVersions": [],
     "updateNotes": {
       "808": "This is the second major hotfix release in a single day. I apologize for this.",
       "820": "SkyblockAddons for FabricMC 26.1 is out!",
-      "976": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally."
+      "976": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally.",
+      "1008": "SkyblockAddons for FabricMC 26.2 is out!"
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.2.14+976-for-MC-1.21.11.jar",
-    "versionNumber": 976,
-    "sha256": "16C2B2E48E8CC85C2EA223E963E90CA126879822FB8989C2874D64EFA0CC5FF0",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/sIfMp1Yn/SkyblockAddons-2.2.14+976-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.15+1008-for-MC-1.21.11.jar",
+    "versionNumber": 1008,
+    "sha256": "DDBCB2016EE29AD057C6D7592D93062CB4FCE82EBE543AD429866CEDF9672271",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/OeAyrNu4/SkyblockAddons-2.2.15+1008-for-MC-1.21.11.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.2.14+976-for-MC-1.21.11.jar",
-    "versionNumber": 976,
-    "sha256": "16C2B2E48E8CC85C2EA223E963E90CA126879822FB8989C2874D64EFA0CC5FF0",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/sIfMp1Yn/SkyblockAddons-2.2.14+976-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.15+1008-for-MC-1.21.11.jar",
+    "versionNumber": 1008,
+    "sha256": "DDBCB2016EE29AD057C6D7592D93062CB4FCE82EBE543AD429866CEDF9672271",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/OeAyrNu4/SkyblockAddons-2.2.15+1008-for-MC-1.21.11.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.11/src/main/resources/lang/%s.json",
   "disabledFeatures": {
