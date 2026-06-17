@@ -2,30 +2,31 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.4.0",
+    "latestRelease": "2.4.1",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
+    "releaseCompatibleMcVersions": [],
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
+    "betaCompatibleMcVersions": [],
     "updateNotes": {
-      "808": "",
-      "975": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally."
+      "1006": ""
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.3.6+975-for-MC-26.1.jar",
-    "versionNumber": 975,
-    "sha256": "5A5328ABC39B2562FF681801BA9095F61C61ACC0DEC4502A9CA05C966015E695",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ExfEyIwA/SkyblockAddons-2.3.6+975-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.4.1+1006-for-MC-26.2.jar",
+    "versionNumber": 1006,
+    "sha256": "E2AF736F3B000D48D27211F79F15B74CF6365C8EFF4FA90DDEC648D435C0C419",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/fYDIJzJb/SkyblockAddons-2.4.1+1006-for-MC-26.2.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.3.6+975-for-MC-26.1.jar",
-    "versionNumber": 975,
-    "sha256": "5A5328ABC39B2562FF681801BA9095F61C61ACC0DEC4502A9CA05C966015E695",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ExfEyIwA/SkyblockAddons-2.3.6+975-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.4.1+1006-for-MC-26.2.jar",
+    "versionNumber": 1006,
+    "sha256": "E2AF736F3B000D48D27211F79F15B74CF6365C8EFF4FA90DDEC648D435C0C419",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/fYDIJzJb/SkyblockAddons-2.4.1+1006-for-MC-26.2.jar"
   },
-  "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/26.1/src/main/resources/lang/%s.json",
+  "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/26.2/src/main/resources/lang/%s.json",
   "disabledFeatures": {
     "all": [2, 12, 16, 30, 31, 32, 35, 41, 44, 47, 51, 56, 59, 86, 89, 151, 154, 159, 162]
   },
