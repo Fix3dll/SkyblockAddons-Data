@@ -2,28 +2,31 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.3.6",
+    "latestRelease": "2.3.7",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
+    "releaseCompatibleMcVersions": ["26.1.1", "26.1.2"],
     "latestBeta": "2.1.0-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
+    "betaCompatibleMcVersions": [],
     "updateNotes": {
       "808": "",
-      "975": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally."
+      "975": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally.",
+      "1007": "SkyblockAddons for FabricMC 26.2 is out!"
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.3.6+975-for-MC-26.1.jar",
-    "versionNumber": 975,
-    "sha256": "5A5328ABC39B2562FF681801BA9095F61C61ACC0DEC4502A9CA05C966015E695",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ExfEyIwA/SkyblockAddons-2.3.6+975-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.7+1007-for-MC-26.1.jar",
+    "versionNumber": 1007,
+    "sha256": "E95EC7DAF468039C812A05DA8B16418F3B60051E02D6A78CAA41CE7FD9429101",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/8GiG3Egy/SkyblockAddons-2.3.7+1007-for-MC-26.1.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.3.6+975-for-MC-26.1.jar",
-    "versionNumber": 975,
-    "sha256": "5A5328ABC39B2562FF681801BA9095F61C61ACC0DEC4502A9CA05C966015E695",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/ExfEyIwA/SkyblockAddons-2.3.6+975-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.7+1007-for-MC-26.1.jar",
+    "versionNumber": 1007,
+    "sha256": "E95EC7DAF468039C812A05DA8B16418F3B60051E02D6A78CAA41CE7FD9429101",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/8GiG3Egy/SkyblockAddons-2.3.7+1007-for-MC-26.1.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/26.1/src/main/resources/lang/%s.json",
   "disabledFeatures": {
