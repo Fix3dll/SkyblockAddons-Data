@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.4.3",
+    "latestRelease": "2.4.4",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseCompatibleMcVersions": [],
@@ -11,20 +11,20 @@
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "betaCompatibleMcVersions": [],
     "updateNotes": {
-      "1006": ""
+      "1103": "Players are recommended to adjust the positions of the Drill Fuel Bar and Text. You can use Shift + Right-click to reset all visual properties of Feature in Edit GUI."
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.4.3+1059-for-MC-26.2.jar",
-    "versionNumber": 1059,
-    "sha256": "0240008268F6754E4D0DCAD8A7A99B5362BD3D287DFC92DB6885C997BDA7C481",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/eNLPHrfN/SkyblockAddons-2.4.3+1059-for-MC-26.2.jar"
+    "versionName": "SkyblockAddons-2.4.4+1103-for-MC-26.2.jar",
+    "versionNumber": 1103,
+    "sha256": "089443C8E83F7E14D89755353A9FB9E644241E70711F0962963D0875152D07C1",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/PqnfrwO9/SkyblockAddons-2.4.4+1103-for-MC-26.2.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.4.3+1059-for-MC-26.2.jar",
-    "versionNumber": 1059,
-    "sha256": "0240008268F6754E4D0DCAD8A7A99B5362BD3D287DFC92DB6885C997BDA7C481",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/eNLPHrfN/SkyblockAddons-2.4.3+1059-for-MC-26.2.jar"
+    "versionName": "SkyblockAddons-2.4.4+1103-for-MC-26.2.jar",
+    "versionNumber": 1103,
+    "sha256": "089443C8E83F7E14D89755353A9FB9E644241E70711F0962963D0875152D07C1",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/PqnfrwO9/SkyblockAddons-2.4.4+1103-for-MC-26.2.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/26.2/src/main/resources/lang/%s.json",
   "disabledFeatures": {
