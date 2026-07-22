@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.2.17",
+    "latestRelease": "2.2.18",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseCompatibleMcVersions": [],
@@ -14,20 +14,21 @@
       "808": "This is the second major hotfix release in a single day. I apologize for this.",
       "820": "SkyblockAddons for FabricMC 26.1 is out!",
       "976": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally.",
-      "1008": "SkyblockAddons for FabricMC 26.2 is out!"
+      "1008": "SkyblockAddons for FabricMC 26.2 is out!",
+      "1105": "Players are recommended to adjust the positions of the Drill Fuel Bar and Text. You can use Shift + Right-click to reset all visual properties of Feature in Edit GUI."
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.2.17+1061-for-MC-1.21.11.jar",
-    "versionNumber": 1061,
-    "sha256": "FC16EA7B3C2105D7B8D218E3F87356A2BA47129AAFE878B7AC7FEADFB1C2711D",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/G9bnb0zS/SkyblockAddons-2.2.17+1061-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.18+1105-for-MC-1.21.11.jar",
+    "versionNumber": 1105,
+    "sha256": "F8D9CADDCBA8151F649E189BC2F5C1B2511A614337EC93826AE8FB29F2AB26E1",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/IDAVbcEG/SkyblockAddons-2.2.18+1105-for-MC-1.21.11.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.2.17+1061-for-MC-1.21.11.jar",
-    "versionNumber": 1061,
-    "sha256": "FC16EA7B3C2105D7B8D218E3F87356A2BA47129AAFE878B7AC7FEADFB1C2711D",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/G9bnb0zS/SkyblockAddons-2.2.17+1061-for-MC-1.21.11.jar"
+    "versionName": "SkyblockAddons-2.2.18+1105-for-MC-1.21.11.jar",
+    "versionNumber": 1105,
+    "sha256": "F8D9CADDCBA8151F649E189BC2F5C1B2511A614337EC93826AE8FB29F2AB26E1",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/IDAVbcEG/SkyblockAddons-2.2.18+1105-for-MC-1.21.11.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/1.21.11/src/main/resources/lang/%s.json",
   "disabledFeatures": {
