@@ -6,7 +6,7 @@
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseCompatibleMcVersions": [],
-    "latestBeta": "2.1.0-beta.1",
+    "latestBeta": "2.4.5-beta.1",
     "betaDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "betaChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "betaCompatibleMcVersions": [],
@@ -21,10 +21,10 @@
     "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/PqnfrwO9/SkyblockAddons-2.4.4+1103-for-MC-26.2.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.4.4+1103-for-MC-26.2.jar",
-    "versionNumber": 1103,
-    "sha256": "089443C8E83F7E14D89755353A9FB9E644241E70711F0962963D0875152D07C1",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/PqnfrwO9/SkyblockAddons-2.4.4+1103-for-MC-26.2.jar"
+    "versionName": "SkyblockAddons-2.4.5-beta.1+1122-for-MC-26.2.jar",
+    "versionNumber": 1122,
+    "sha256": "1A80024F91658133F72E6FA7F7A917BD4786B3E05FD6E0981575B40E0B78CD98",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/AveYQRaz/SkyblockAddons-2.4.5-beta.1+1122-for-MC-26.2.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/26.2/src/main/resources/lang/%s.json",
   "disabledFeatures": {
