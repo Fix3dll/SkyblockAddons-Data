@@ -2,7 +2,7 @@
   "bannerImageURL": null,
   "bannerLink": null,
   "updateInfo": {
-    "latestRelease": "2.3.13",
+    "latestRelease": "2.3.14",
     "releaseDownload": "https://modrinth.com/mod/skyblockaddons-unofficial/versions",
     "releaseChangelog": "https://modrinth.com/mod/skyblockaddons-unofficial/changelog",
     "releaseCompatibleMcVersions": ["26.1.1", "26.1.2"],
@@ -14,20 +14,21 @@
       "808": "",
       "975": "SkyblockAddons is in minimal maintenance mode. The mod is no longer actively developed - no new features are planned - but small and critical issues are still fixed occasionally.",
       "1007": "SkyblockAddons for FabricMC 26.2 is out!",
-      "1104": "Players are recommended to adjust the positions of the Drill Fuel Bar and Text. You can use Shift + Right-click to reset all visual properties of Feature in Edit GUI."
+      "1104": "Players are recommended to adjust the positions of the Drill Fuel Bar and Text. You can use Shift + Right-click to reset all visual properties of Feature in Edit GUI.",
+      "1181": "SkyblockAddons for FabricMC 26.3 is out!"
     }
   },
   "autoUpdateStable": {
-    "versionName": "SkyblockAddons-2.3.13+1162-for-MC-26.1.jar",
-    "versionNumber": 1162,
-    "sha256": "fd835a16bcb325d97672dda99f5a24b6e6802c2fd0a7454551d17d93c8c669c9",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/YLZvitXV/SkyblockAddons-2.3.13+1162-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.14+1181-for-MC-26.1.jar",
+    "versionNumber": 1181,
+    "sha256": "ea3739ef8b37d367b4ae4f16ba4707419c098e5a7e49888234bdb8f3c3e767ae",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/zlDdI2O7/SkyblockAddons-2.3.14+1181-for-MC-26.1.jar"
   },
   "autoUpdateLatest": {
-    "versionName": "SkyblockAddons-2.3.13+1162-for-MC-26.1.jar",
-    "versionNumber": 1162,
-    "sha256": "fd835a16bcb325d97672dda99f5a24b6e6802c2fd0a7454551d17d93c8c669c9",
-    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/YLZvitXV/SkyblockAddons-2.3.13+1162-for-MC-26.1.jar"
+    "versionName": "SkyblockAddons-2.3.14+1181-for-MC-26.1.jar",
+    "versionNumber": 1181,
+    "sha256": "ea3739ef8b37d367b4ae4f16ba4707419c098e5a7e49888234bdb8f3c3e767ae",
+    "download": "https://cdn.modrinth.com/data/F35D4vTL/versions/zlDdI2O7/SkyblockAddons-2.3.14+1181-for-MC-26.1.jar"
   },
   "languageJSONFormat": "https://raw.githubusercontent.com/Fix3dll/SkyblockAddons/26.1/src/main/resources/lang/%s.json",
   "disabledFeatures": {
